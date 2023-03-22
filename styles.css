@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+
+p {
+    font-family: 'Alegreya', serif;
+    font-size: 15px;
+}
+
+    
+.image {
+    width: 105px;
+    height: 105px;
+    border-radius: 20%;
+    object-fit: cover;
+    }
+
+.image-four {
+    width: 105px;
+    height: 105px;
+    border-radius: 20%;
+    object-fit: cover;
+}
+    
+
+    
+
