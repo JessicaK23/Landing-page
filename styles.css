@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: beige;
 }
 
 p {
@@ -54,7 +55,7 @@ h2 {
 .images-container {
     background-color: beige;
     margin-top: 0px;
-    padding: 20px 0 25px 0;
+    padding: 25px 0 40px 0;
     text-align: center;
     display: flex;
     justify-content: space-evenly;
@@ -73,6 +74,48 @@ h2 {
     border-radius: 20%;
     object-fit: cover;
 }
+
+.quote {
+    background-color: rgb(172, 170, 170);
+    color: rgb(251, 228, 251);
+    font-weight: 700;
+    padding: 80px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 16px
+}
+
+h4 {
+    color: rgb(65, 245, 65);
+}
+
+.sign-up {
+      border: 1px solid hwb(16 71% 3%);
+      background-color: hwb(16 71% 3%);
+      width: 600px;
+      height: 80px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin-left: 160px;
+      margin-bottom: 50px;
+    }
+
+footer {
+    background-color: pink;
+    height: 30px;
+    margin-top: 20px;
+    padding: 10px 0 25px 0;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    }
+
+footer p {
+        text-align: center;
+    }
+
+
 
     
 
